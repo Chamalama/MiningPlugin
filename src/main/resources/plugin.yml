@@ -1,0 +1,4 @@
+name: MiningPlugin
+version: '1.0'
+main: mike.miningPlugin.MiningPlugin
+api-version: '1.21'
